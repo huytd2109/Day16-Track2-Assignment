@@ -1,0 +1,20 @@
+{
+  "benchmark.py": "7706a0b307418f19291a72b71f2f1b42a47d9a5706cc426ca7d30966e0600ffe",
+  "benchmark_output.txt": "f4e1da1b7c263938bf5c9a9f8b2bcdf18251abdbd223a20db0461b03f0e4a756",
+  "benchmark_result.json": "175ed83718809edbd1e7aef8b5d15701568731742e8467b3776b7cde41c08d83",
+  "checkpoint_review.md": "6df75052ed1c3aaf1a57d4c990204a192d49d0863d1c51faf9a8736af8cc2b24",
+  "evidence/billing_check.json": "8565e1a6cd7db1cff3d448b861b9bea7944d30a9ba21ff87d9a2b3fcfd78e4d6",
+  "evidence/cleanup_plan_summary.json": "d76535060e107ac0b0360407fda783c6f116cb7a37091cffae53916c7bc5296b",
+  "evidence/instances_before_cleanup.json": "cff488add2b77c703128d7b15613b8af6a50f5927e45d458cdb59cd10bbb9493",
+  "evidence/run_manifest.json": "38c6800755447923c322dd231043bb3e35c1278a906a3a9ca69634e926f242ee",
+  "infra/.terraform.lock.hcl": "778d445c5e0f8427fa8f0597111e54beb79011b2824b42414064e0301d285cec",
+  "infra/main.tf": "a81024d6c5ea054e08610c3cf84ad890930a63a91d113775b6ada058a5ba673c",
+  "infra/outputs.tf": "49084f7c5878897eef569f7ee2e9fe57815ba52625597e41dac7180324e72e69",
+  "infra/providers.tf": "29bd13e4648475f9d2523d5371044edf246801841a5fda411abd389b8e378bdb",
+  "infra/user_data_cpu.sh": "95fa84195f851365dcc8f4bb9458d179916c8ebab1b7adaf3932a403626d30c4",
+  "infra/user_data_gpu.sh": "0cbc651de18ed718aecbe0a3111c801f43c5216fe07a4c2c661d53faa7d3c2c9",
+  "infra/variables.tf": "d0c7e69657ed682ccc0e87d2b7754ed3ce4ac776371d75944c54e8f39b911a2e",
+  "report.md": "50cef785b3ad10f64c3806428c83fdef0baab190426e6be45760f8d655ff0a85",
+  "resource_usage.txt": "eaa9b829a94e6e8bfed12221a7a98906a421542aeb02bf4851ae20b3844e7156",
+  "screenshots/README.md": "f1a0966e285e83dbdb3eacf19acbc8e74d12ad7ee4e8b01923925fb38530f934"
+}

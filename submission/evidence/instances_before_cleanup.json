@@ -1,0 +1,18 @@
+[
+    {
+        "instance_id": "i-0433bf8b92cf5322c",
+        "instance_type": "t3.small",
+        "state": "running",
+        "name": "AI-CPU-LightGBM-Node",
+        "launch_time_utc": "2026-10-02T09:55:00+00:00",
+        "availability_zone": "us-east-1a"
+    },
+    {
+        "instance_id": "i-0daf0e249aa8e246d",
+        "instance_type": "t3.micro",
+        "state": "running",
+        "name": "AI-Bastion-Host",
+        "launch_time_utc": "2026-10-02T09:37:20+00:00",
+        "availability_zone": "us-east-1a"
+    }
+]

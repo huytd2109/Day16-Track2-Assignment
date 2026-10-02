@@ -1,0 +1,18 @@
+{
+  "command": "cd ~/ml-benchmark && python3 -u benchmark.py",
+  "cloud": "AWS",
+  "region": "us-east-1",
+  "availability_zone": "us-east-1a",
+  "instance_type": "t3.small",
+  "run_started_at_utc": "2026-10-02T10:55:31+00:00",
+  "recorded_at_utc": "2026-10-02T10:55:38.733192+00:00",
+  "benchmark_exit_code": 0,
+  "new_json_stat_mtime_utc": "2026-10-02T10:55:38.770743097+00:00",
+  "sha256_verified_against_vm": {
+    "benchmark.py": "7706a0b307418f19291a72b71f2f1b42a47d9a5706cc426ca7d30966e0600ffe",
+    "benchmark_result.json": "175ed83718809edbd1e7aef8b5d15701568731742e8467b3776b7cde41c08d83"
+  },
+  "download_verified_at_vietnam": "2026-10-02T17:58:19.538913+07:00",
+  "source_commit": "55539f67d7c78b43afe334a2ec3271c4bfdbbe2d",
+  "source_working_tree_change": "terraform/main.tf SSH ingress restricted to /32; actual cpu_instance_type=t3.small was passed through local tfvars (excluded from submission)"
+}
