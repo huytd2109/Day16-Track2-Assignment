@@ -1,0 +1,19 @@
+{
+  "status": "completed",
+  "completion_reported_by": "user",
+  "verified_at_utc": "2026-10-02T13:50:12.305864+00:00",
+  "verification": {
+    "source": "terraform/terraform.tfstate",
+    "resource_count": 0,
+    "output_count": 0,
+    "state_serial": 123,
+    "terraform_version": "1.16.4",
+    "terraform_state_list": {
+      "exit_code": 0,
+      "output": ""
+    }
+  },
+  "plan_reference": "cleanup_plan_summary.json",
+  "planned_resource_count": 27,
+  "scope": "User-confirmed completion and empty local Terraform state; no destroy terminal log or independent AWS inventory verification captured here."
+}
