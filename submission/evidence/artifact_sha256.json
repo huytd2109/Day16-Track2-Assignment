@@ -2,12 +2,14 @@
   "benchmark.py": "7706a0b307418f19291a72b71f2f1b42a47d9a5706cc426ca7d30966e0600ffe",
   "benchmark_output.txt": "f4e1da1b7c263938bf5c9a9f8b2bcdf18251abdbd223a20db0461b03f0e4a756",
   "benchmark_result.json": "175ed83718809edbd1e7aef8b5d15701568731742e8467b3776b7cde41c08d83",
-  "checkpoint_review.md": "c6bdb19cb9abe1ce83327a8a150dbd0c33d5b060b385e6987116b42192934f40",
+  "checkpoint_review.md": "fb2a3842c9be34b01515b8f325cd8ce1526b4a944d5c880927b5486e826b75cc",
   "evidence/billing_check.json": "8565e1a6cd7db1cff3d448b861b9bea7944d30a9ba21ff87d9a2b3fcfd78e4d6",
   "evidence/cleanup_plan_summary.json": "7f5e83c40b4e58d5210d675408c7d8edffeb37010d5e41c8ff6d593edd775969",
   "evidence/cleanup_result.json": "f63e3f8a97bf5de72b6a5fab79e7f315e308326da259a6ebf7691944837ab60b",
   "evidence/instances_before_cleanup.json": "cff488add2b77c703128d7b15613b8af6a50f5927e45d458cdb59cd10bbb9493",
   "evidence/run_manifest.json": "38c6800755447923c322dd231043bb3e35c1278a906a3a9ca69634e926f242ee",
+  "evidence/screenshot_provenance.json": "f2031a55fbbcbb30869590fce88aa31f955727b387864b199be36ebaeb5da7cc",
+  "evidence/submission_review.json": "bb5fe3de2e9d98b186e471660956243720b85f5f6e12db85580107bc65310314",
   "infra/.terraform.lock.hcl": "778d445c5e0f8427fa8f0597111e54beb79011b2824b42414064e0301d285cec",
   "infra/main.tf": "a81024d6c5ea054e08610c3cf84ad890930a63a91d113775b6ada058a5ba673c",
   "infra/outputs.tf": "49084f7c5878897eef569f7ee2e9fe57815ba52625597e41dac7180324e72e69",
@@ -15,7 +17,10 @@
   "infra/user_data_cpu.sh": "95fa84195f851365dcc8f4bb9458d179916c8ebab1b7adaf3932a403626d30c4",
   "infra/user_data_gpu.sh": "0cbc651de18ed718aecbe0a3111c801f43c5216fe07a4c2c661d53faa7d3c2c9",
   "infra/variables.tf": "d0c7e69657ed682ccc0e87d2b7754ed3ce4ac776371d75944c54e8f39b911a2e",
-  "report.md": "c5635c8affebd09386c314e94fc07991df93d980e350af6783f2b67880378d63",
+  "report.md": "6250bbc51bda9356503836fed63775f85be1e1d7ac78303d39f6f04672ba00d2",
   "resource_usage.txt": "eaa9b829a94e6e8bfed12221a7a98906a421542aeb02bf4851ae20b3844e7156",
-  "screenshots/README.md": "f1a0966e285e83dbdb3eacf19acbc8e74d12ad7ee4e8b01923925fb38530f934"
+  "screenshots/README.md": "81cda3240ed403a423996ff7e54f3f2e44d972e2b174a7b9bd3607b6475d57d7",
+  "screenshots/benchmark_terminal.png": "f3a5c01639de260d30728080f3dead01c6d945f5e7d5c7c8304981c3c6d092f8",
+  "screenshots/billing.png": "c717ac13f2e40fdf21fea657d36fd3b3efe8aac03b6b75d69c2c7c4c951b3aaf",
+  "screenshots/resource_usage.png": "99bf0150013fab557eb03bec693354e35177969efcba1e4de11f6ea624cc7a7e"
 }
